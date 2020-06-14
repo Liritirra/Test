@@ -17,7 +17,7 @@ Darüber hinaus stellt das Paket eine große Zahl an nützlichen Befehlen zur Ve
 ---
 #### Pakete
 
-Paket | Seit&nbsp;Version | Nutzen
+Paket | Seit&nbsp;Version&nbsp;&nbsp; | Nutzen
 --- | --- | ---
 nag | `Alpha: 1.00` | Old habits die hard. Warnt vor veralteten Befehlen.
 etoolbox | `Alpha: 1.00` | Bietet Alternative Wege für LaTeX Kernel Befehle an.
