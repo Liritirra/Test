@@ -9,3 +9,6 @@ This package provides
 [Changelog][1] can be found [here][1].
 
 [1]: CHANGELOG.md
+
+
+github-flavored-markdown#1
