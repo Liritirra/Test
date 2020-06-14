@@ -14,7 +14,7 @@ Darüber hinaus stellt das Paket eine große Zahl an nützlichen Befehlen zur Ve
 #### Pakete
 
 Paket | <nobr>Seit Version</nobr> | Nutzen
-- | - | -
+--- | --- | ---
 nag | `Alpha: 1.00` | Old habits die hard. Warnt vor veralteten Befehlen
 
 
